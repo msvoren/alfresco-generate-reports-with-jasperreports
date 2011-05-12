@@ -1,0 +1,18 @@
+Dependencies
+-----------------------------
+JasperReports:
+
+commons-beanutils-1.8.0.jar
+commons-collections-2.1.1.jar
+commons-digester-1.7.jar
+commons-logging-1.0.4.jar
+groovy-all-1.7.5.jar
+iText-2.1.7.jar
+jasperreports-4.0.2.jar
+jasperreports-applet-4.0.2.jar
+jasperreports-fonts-4.0.2.jar
+jasperreports-javaflow-4.0.2.jar
+log4j-1.2.15.jar
+xalan-2.7.1.jar
+
+*** AND Alfreco SDK

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC '-//SPRING//DTD BEAN//EN' 'http://www.springframework.org/dtd/spring-beans.dtd'>
+
+<beans>
+
+	<bean id="jasperReportsHelper" class="hr.chus.jasperreports.javascript.extenstions.JasperReportsHelper" parent="baseJavaScriptExtension">
+		<property name="extensionName" value="jasperReportsHelper" />
+		<property name="nodeService" ref="NodeService" />
+		<property name="contentService" ref="ContentService" />
+	</bean>
+
+</beans>
